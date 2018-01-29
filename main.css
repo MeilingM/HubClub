@@ -16,4 +16,14 @@ h1  {
     font-size: 22px;
     color: 3566ff;
 }
+#navbar {
+    display: block;
+    float: left;
+    padding: 5px;
+}
+#content {
+    display: block;
+    float: right;
+    padding: 5px;
+}
     
