@@ -6,7 +6,6 @@ ul {
     padding: 0;
     width: 25%;
     background-color: #0000ff;
-    position: fixed;
     height: 100%;
     overflow: auto;
 }
@@ -29,7 +28,6 @@ li a:hover:not(.active) {
     background-color: #002200;
     color: white;
 }
-</style>
 body {
     color: aabfff;
     margin: 0;
